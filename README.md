@@ -16,3 +16,4 @@ Until further notice, I release this software under the following licence:
 
 It's simple. If you like this piece of software and you know me/get to know me/  
 meet me you either have to buy me a beer or something to eat.
+If you meet these conditions you are free to use the sourcecode.
