@@ -10,7 +10,7 @@ achieve a way to write inline editable website that are easy to build
 from a developer's side.
 ##Tech
 For the first stage of the proof-of-concept I intend to use the following stuff:
-* jQuery (http://jquery.com/)-module for content transportation
+* [jQuery](http://jquery.com/) module for content transportation
 	* Later I want to switch to create.js (http://createjs.org/)
 * bottle.py (http://bottlepy.org/) for serverside scripting
 
